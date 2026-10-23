@@ -1,0 +1,40 @@
+{
+	"name": "Radio Kabod - Cerca de Ti",
+	"short_name": "Radio Kabod - Cerca de Ti",
+	"description": "Radio Kabod - Cerca de Ti",
+	"icons" : [
+		 {
+            "src": "imagenes/app.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "imagenes/app.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "imagenes/app.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "imagenes/app.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        }
+	],
+	"start_url": "./?mode=pwa",
+	"theme_color": "#f2ca38",
+	"background_color": "#f2ca38",
+	"orientation": "portrait",
+	"display": "fullscreen",
+	"display_override": [
+		"fullscreen"
+	],
+	"lang": "ru",
+	"dir": "ltr",
+	"categories": [
+		"music"
+	]
+}
